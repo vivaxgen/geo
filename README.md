@@ -1,4 +1,4 @@
-# vivagen-geo
+# vivaxgen-geo
 SNP-based geographic barcode platform for *Plasmodium vivax*
 
 This repository provide information about the software and the instalation procedure for
